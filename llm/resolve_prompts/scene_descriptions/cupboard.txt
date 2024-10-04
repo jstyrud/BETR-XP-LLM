@@ -1,0 +1,9 @@
+The objects available in the scene are
+"plate"
+"cupboard"
+"table"
+
+Scene information:
+"plate" is on "table". "cupboard" is closed
+
+Task: Please put "plate" in "cupboard"

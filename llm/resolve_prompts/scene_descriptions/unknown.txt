@@ -1,0 +1,9 @@
+The objects available in the scene are
+"apple"
+"orange"
+"table"
+
+Scene information:
+"apple" is on "table". "orange" is on "table"
+
+Task: Bring me a banana

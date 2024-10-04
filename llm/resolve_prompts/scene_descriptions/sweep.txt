@@ -1,0 +1,4 @@
+Scene information:
+Robot is near Table2.
+
+Task: Would you mind giving the floor a thorough sweep? It looks like it could use a good cleaning. Oh, and by the way, I won't be needing that insulated cup or the fresh juice anymore, so no need to bring them over

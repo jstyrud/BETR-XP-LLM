@@ -1,0 +1,37 @@
+{
+  "editor.rulers": [
+    100
+  ],
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#e4664f"
+  },
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportUnusedImport": "information",
+    "reportMissingImports": "error"
+  },
+  "editor.wordWrapColumn": 100,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "black-formatter.args": [
+    "--line-length=100"
+  ],
+  "pylint.args": [
+    "--max-line-length= 100",
+    "--disable=logging-fstring-interpolation",
+  ],
+  "isort.args": [
+    "--profile",
+    "black"
+  ],
+}

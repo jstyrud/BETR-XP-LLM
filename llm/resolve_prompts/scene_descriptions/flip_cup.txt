@@ -1,0 +1,9 @@
+The objects available in the scene are
+"red cup"
+"green cube"
+"table"
+
+Scene information:
+"green cube" is grasped. "red cup" is on "table". "red cup" is upside down
+
+Task: Please put "green cube" in "red cup"

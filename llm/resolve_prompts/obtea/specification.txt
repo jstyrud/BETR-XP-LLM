@@ -1,0 +1,7 @@
+Remember to make sure that all objects and places are in the lists above and use the closest matching object from the list if necessary. Do not ignore part of the instruction because you can't find the object, use the closest matching object instead.
+You should only respond in the format as described below, do not mention anything else:
+RESPONSE FORMAT:
+Reasoning: Based on the task description and error message, do reasoning about what the missing precondition(s) could be. When applicable, it is better to use general statements like AnyObject to cover more possible scenarios.
+Conditions: List the missing precondition(s) that would help execute the action successfully. Only use preconditions from the list above. 
+
+Now resolve this error:

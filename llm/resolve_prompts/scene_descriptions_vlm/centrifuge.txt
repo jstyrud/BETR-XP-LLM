@@ -1,0 +1,8 @@
+The objects available in the scene are
+"test tube"
+"centrifuge"
+"table"
+
+Task: Please put "test tube" inside "centrifuge"
+
+Scene information:

@@ -1,0 +1,10 @@
+The objects available in the scene are
+"red cube"
+"blue cube"
+"green cube"
+"table"
+
+Scene information:
+"blue cube" is on "table". "green cube" is on "table". "red cube" is on "blue cube"
+
+Task: Please put "blue cube" on "green cube"

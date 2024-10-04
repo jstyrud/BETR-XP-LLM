@@ -1,0 +1,4 @@
+Scene information:
+Robot is near Table2. Chips are on the Bar.
+
+Task: I'm sitting at the third table, could you please bring me either some fries or a dessert?

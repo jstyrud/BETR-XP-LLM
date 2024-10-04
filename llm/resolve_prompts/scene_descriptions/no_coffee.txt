@@ -1,0 +1,4 @@
+Scene information:
+Robot is near the bar
+
+Task: Could you convey some coffee to the table six?

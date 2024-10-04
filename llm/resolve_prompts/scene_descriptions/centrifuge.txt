@@ -1,0 +1,9 @@
+The objects available in the scene are
+"test tube"
+"centrifuge"
+"table"
+
+Scene information:
+"test tube" is grasped. "centrifuge" is on "table". "centrifuge" is closed
+
+Task: Please put "test tube" in "centrifuge"

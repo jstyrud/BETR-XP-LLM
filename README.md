@@ -29,4 +29,4 @@ pip install -r requirements.txt
 2. pip install -e . 
 
 ### Install cfree_py
-This is to come, official ABB release is expected late 2024.
+Go to https://library.abb.com/r?cid=9AAF630578 and find and install the version most suitable for your setup

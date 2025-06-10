@@ -37,7 +37,7 @@ lxml==5.2.2
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe>=1.1.0
-matplotlib==3.9.0
+matplotlib>=3.7.5
 mdurl==0.1.2
 mkl-service==2.4.0
 mmcv==2.1.0

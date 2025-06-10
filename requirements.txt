@@ -9,7 +9,7 @@ cffi==1.16.0
 charset-normalizer>=3.3.2
 click==8.1.7
 colorama==0.4.6
-contourpy>=1.2.0
+contourpy>=1.1.0
 crcmod==1.7
 cryptography==42.0.7
 cycler==0.12.1

@@ -1,0 +1,9 @@
+gTTS==2.5.1
+imageio==2.34.1
+mmdet==3.3.0
+mmengine==0.10.4
+openai==1.31.0
+pygame==2.5.2
+pytest==8.2.1
+scipy==1.14.0
+supervision==0.19.0

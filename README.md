@@ -24,6 +24,9 @@ https://github.com/jstyrud/py_trees
 ### Install any missing requirements
 pip install -r requirements.txt
 
+The requirements file above is based on a pip freeze from the environment used for the experiments. If there are issues, minimal_requirements.txt can be used instead that only lists requirements specific to this package.
+pip install -r minimal_requirements.txt
+
 ### Install rws_py
 1. In a terminal go to the directory rws_py
 2. pip install -e . 

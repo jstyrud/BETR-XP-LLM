@@ -109,7 +109,7 @@ timm==1.0.3
 tokenizers==0.19.1
 tomli==2.0.1
 torch==2.3.0
-torch2trt==0.5.0
+torch2trt>=0.5.0
 torchaudio==2.3.0
 torchvision==0.18.0
 tqdm==4.65.2
@@ -123,5 +123,5 @@ websocket-client==1.8.0
 wheel==0.43.0
 xmltodict==0.13.0
 yapf==0.40.2
-yolo_world==0.1.0
+yolo_world>=0.1.0
 zipp==3.18.2

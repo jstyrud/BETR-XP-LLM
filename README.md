@@ -3,7 +3,8 @@ This is the project repository for the paper
 
 **Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation**
 
-submitted to IEEE International Conference on Robotics and Automation (ICRA), 2025
+presented at IEEE International Conference on Robotics and Automation (ICRA), 2025
+https://ieeexplore.ieee.org/abstract/document/11127942
 
 A preview version can be found at:
 https://arxiv.org/abs/2409.13356
